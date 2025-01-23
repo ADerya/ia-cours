@@ -23,6 +23,9 @@ SPLIT_RATIOS = {"train": 0.6, "val": 0.2, "test": 0.2}
 random.seed(42)
 
 
+
+#test
+
 # Connect to the Picsellia client
 def connect_to_client():
     return Client(
