@@ -3,3 +3,12 @@ Pillow
 black
 pre-commit
 pyright
+pandas
+scikit-learn
+seaborn
+matplotlib
+picsellia
+python-dotenv
+ultralytics
+pytest
+pytest-cov
